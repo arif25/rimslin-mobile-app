@@ -1,6 +1,6 @@
 import * as FileSystem from 'expo-file-system/legacy';
 
-const BACKEND_URL = 'rimslin-backend.vercel.app';
+const BACKEND_URL = 'https://rimslin-backend.vercel.app';
 
 export interface AIResponse {
     bangla: string;
